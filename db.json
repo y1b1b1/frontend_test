@@ -53,9 +53,14 @@
     ]},
   ],
   
-  "news_detail":{
-    
-  },
+  "news_detail": [
+    {"id": "1", "title": "一个伟大的测试1", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+    {"id": "2", "title": "一个伟大的测试2", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+    {"id": "21", "title": "一个伟大的测试21", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+    {"id": "22", "title": "一个伟大的测试22", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+    {"id": "31", "title": "一个伟大的测试31", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+    {"id": "32", "title": "一个伟大的测试32", "content": "<h5>ssss</h5><p>Hello World!</p>"},
+  ],
   
   "posts": [
     { "id": 1, "title": "Post 1" },
